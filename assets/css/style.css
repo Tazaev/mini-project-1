@@ -1,0 +1,19 @@
+* {
+    border:solid 1px sandybrown;
+}
+body {
+    min-height:100vh;
+}
+header {
+    height:100px;
+    background-color: aqua;
+    color:black;
+}
+footer {
+    height:100px;
+    background-color: rgb(107, 211, 211);
+    color:black;
+}
+main {
+    min-height: 80vh;
+}
